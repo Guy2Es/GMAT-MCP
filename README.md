@@ -1,7 +1,11 @@
 # gmat-mcp
 
+⚠️ Note: This project is currently under development.
+
 MCP (Model Context Protocol) server that lets Claude drive GMAT (General Mission
 Analysis Tool, NASA) to build and analyze space missions.
+
+
 
 ## Requirements
 - **GMAT** installed (tested with R2026a), with its shipped data: gravity
