@@ -1,0 +1,7 @@
+# Python dependencies for the gmat-mcp server (excluding the GMAT gmatpy binding,
+# which is provided by the GMAT installation). Install in the gmat-mcp-env virtual environment.
+mcp
+matplotlib
+plotly
+numpy
+sgp4
